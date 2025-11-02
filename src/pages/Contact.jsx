@@ -37,9 +37,9 @@ export default function Contact(){
           <div className="mt-6">
             <h4 className="font-semibold">Follow us</h4>
             <div className="mt-2 flex items-center gap-3">
-              <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" className="text-blue-600">LinkedIn</a>
+              <a href="https://www.linkedin.com/company/iedc-bootcamp-cec/" target="_blank" rel="noreferrer" className="text-blue-600">LinkedIn</a>
               <a href="https://twitter.com" target="_blank" rel="noreferrer" className="text-sky-500">Twitter</a>
-              <a href="https://instagram.com" target="_blank" rel="noreferrer" className="text-pink-500">Instagram</a>
+              <a href="https://www.instagram.com/iedcbootcampcec?igsh=NmphdmZ0bDRvdTBu" target="_blank" rel="noreferrer" className="text-pink-500">Instagram</a>
             </div>
           </div>
         </div>
