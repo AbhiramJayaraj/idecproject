@@ -8,7 +8,8 @@ module.exports = {
       colors: {
         // Light blue & black theme
         primary: '#60A5FA',
-        accent: '#000000'
+        accent: '#000000',
+        navbarBlue: '#164766'
       },
       borderRadius: {
         '2xl': '1rem'

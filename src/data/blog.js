@@ -1,7 +1,7 @@
 // Use existing raster assets as thumbnails to avoid missing-file errors
 // Use safe existing assets as thumbnails
-import idec from '../assets/joe.webp';
-import idec2 from '../assets/lekshmipriya.webp';
+import idec from '../assets/idec.png';
+import idec2 from '../assets/idec2.png';
 const posts = [
   {
     id: 'b1',
